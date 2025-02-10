@@ -1,8 +1,10 @@
 # Table of contents
 
+* [Home](README.md)
+
 ## 指南
 
-* [按键指南](README.md)
+* [按键指南](<README (1).md>)
 
 ## 资料
 
