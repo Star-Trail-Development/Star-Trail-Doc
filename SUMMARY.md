@@ -4,7 +4,7 @@
 
 ## 指南
 
-* [按键指南](<README (1).md>)
+* [按键指南](zhi-nan/an-jian-zhi-nan.md)
 
 ## 资料
 
